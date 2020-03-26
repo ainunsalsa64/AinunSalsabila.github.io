@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <title>INTRODUCE MY SELF</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+  </head>
+<body>
+  <style>
+body {background-image: url(palm.jpg);} {color: white;}
+h1 {color: black;}
+blockquote {color: green;}
+h2 {color: green;}
+.sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+    <div class="w3-container w3-pale-green">
+      <h1>C'EST MOI</h2>
+    </div>
+    <p>Hi everyone!!! Namaku Ainun Salsabila aku adalah seorang siswi. Aku menempuh pendidikan di salah satu sekolah yang Ter-Sohor di Indonesia yaitu SMK SMAK Bogor. 
+    Lama pendidikan di SMAKBo yaitu 4 tahun, dan sekarang aku berada di tahun ke Dua di SMAKBo. 
+    Website tentang biodataku ini adalah salah satu tugas individu dari Labkom di tahaun ke dua ini.</p>
+    <blockquote>
+      <strong><em> -Put Allah the first, and you will never be the last- </em></strong>
+    </blockquote> 
+    
+    
+  <img src="idola.png" width="400"height="300">
+
+    <h2>BIODATA</h2>
+
+  <ol type= "square">
+  <li class="sansserif"> Nama : Ainun Salsabila </li> 
+  <li class="sansserif"> TTL : Bogor, 16 November 2003  </li>
+  <li class="sansserif"> Jenis Kelamin : Perempuan </li>
+  <li class="sansserif"> Golongan darah : O </li>
+  <li class="sansserif"> Agama : Islam </li>
+  <li class="sansserif"> Kewarganegaraan : Indonesia </li>
+  <li class="sansserif"> Status : Pelajar </li>
+  <li class="sansserif"> Alamat : Bantarsari rt 01 rw 07 Kec. Rancabungur Kab. Bogor </li>
+  <li class="sansserif"> No.TLP : 089614287860 </li>
+  <li class="sansserif"> Gmail : ainunsalsa64@smakbo.sch.id </li>
+  <li class="sansserif"> Hobi : Membaca & travelling </li>
+  <li class="sansserif"> Warna Favorit : Biru, Hitam </li>
+  <li class="sansserif"> Asal sekolah : SDN Semplak 2 Bogor, SMPN 4 Bogor  </li>
+  </ol>
+  
+</body>
+</html>
