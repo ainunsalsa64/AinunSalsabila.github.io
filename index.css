@@ -1,7 +1,6 @@
 body {
-  background-image: url("palm.jpg"
-);
-} 
+  background: url("img_tree.png") no-repeat top right;
+}
 
 h1 { background-color: palegreen;
   color: white;
