@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>C'est Moi</title>
+	<style> color : blue </style>
+<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>	
+<h1> BIODATAKU</h1>
+<h2> Data Pribadi</h2>
+
+<p>Nama 				: Ainun Salsabila</p>
+<p>Tempat Tanggal Lahir : Bogor, 16 November 2003</p>
+<p>Jenis Kelamin		: Perempuan</p>
+<p>Status 				: Pelajar</p>
+<p>Agama 				: Islam</p>
+<p>Kewarganegaraan 		: Indonesia </p>
+<p>Alamat 				: Bantarsari Rt.01/Rw.07 Kec. Rancabungur</p>
+<p>Email 				: asalsabila401@gmail.com</p>
+<p>No.Telp 				: 089614287860</p>
+<p>Hobi 				: Membaca buku</p>
+<p>Cita-Cita 			: Pengusaha</p>
+
+
+<h2> Pendidikan</h2>
+
+<ul>
+	<li>Taman Kanak-kanak 			: TK RA Al-Irsyad</li>
+	<li>Sekolah Dasar 				: SDN Semplak 2 bogor</li>
+	<li>Sekolah Menengah Pertama 	: SMPN 4 Bogor</li>
+	<li>Sekolah Menengah Kejuruan 	: <a href="http://www.smakbo.sch.id" target="_blank">SMK-SMAK Bogor</a> </li>
+
+</ul>
+
+<h2> Favorit</h2>
+
+	<p>Makanan 	: Cokelat</p>
+	<p>Minuman 	: Susu Strawberry</p>
+	<p>Film 	: Action, Sci-Fi</p>
+	
+<h3> <img src="Ainun".png" > </h3>
+
+</body>
+
+</html>
