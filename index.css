@@ -1,5 +1,5 @@
 body {
-  background-image: url("palm.png") ;
+  background-image: url(palm.png) ;
 }
 
 h1 { background-color: palegreen;
@@ -7,16 +7,39 @@ h1 { background-color: palegreen;
 }
 blockquote { color: green;
 }
+image {
+  border-radius: 50% ;
+  width: 200px ;
+  height : 200px ;
+  display : block ;
+  margin-left: auto;
+  margin-right: auto;
+}
 h2 {
-  background-color: transparent;
-  color:green ;
+  background-color: palegreen;
+  color: black ;
+  font-family: times new roman;
+}
+ol { 
+  border-style: solid;
+  border-color: green; 
+  font-family: times new roman;
+  font-size: 15px;
+  color:brown; 
 }
 p {
+  border-style: solid;
+  border-color: green;
   font-family: times new roman;
   font-size: 15px;
   color:brown;
-}
+  font-family: times new roman;
+  font-size: 15px;
+  color:brown;
+} 
 ul {
+  border-style: solid;
+  border-color: green;
   font-family: times new roman;
   font-size: 15px;
   color:brown;
