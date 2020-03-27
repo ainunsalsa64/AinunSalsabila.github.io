@@ -1,5 +1,5 @@
 body {
-  background-image: url(palm.png) ;
+  background-image: url(palm.jpeg) ;
 }
 
 h1 { background-color: palegreen;
@@ -7,7 +7,7 @@ h1 { background-color: palegreen;
 }
 blockquote { color: green;
 }
-image {
+img {
   border-radius: 50% ;
   width: 200px ;
   height : 200px ;
