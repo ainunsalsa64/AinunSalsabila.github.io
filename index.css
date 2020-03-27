@@ -5,7 +5,9 @@ body {
 h1 { background-color: palegreen;
   color: white;
 }
-blockquote { color: green;
+blockquote { 
+  background-color: white;
+  color: green;
 }
 img {
   border-radius: 50% ;
@@ -21,6 +23,7 @@ h2 {
   font-family: times new roman;
 }
 ol { 
+  background-color: white;
   border-style: solid;
   border-color: green; 
   font-family: times new roman;
@@ -28,6 +31,7 @@ ol {
   color:brown; 
 }
 p {
+  background-color: white;
   border-style: solid;
   border-color: green;
   font-family: times new roman;
@@ -38,6 +42,7 @@ p {
   color:brown;
 } 
 ul {
+  background-color: white;
   border-style: solid;
   border-color: green;
   font-family: times new roman;
